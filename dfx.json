@@ -9,7 +9,7 @@
         "token_backend"
       ],
       "frontend": {
-        "entrypoint": "src/token_frontend/src/index.html"
+        "entrypoint": "src/token_frontend/src/index.jsx"
       },
       "source": [
         "src/token_frontend/assets",
